@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringPalindrome",
+            "request": "launch",
+            "mainClass": "StringPalindrome"
+        }
+    ]
+}
