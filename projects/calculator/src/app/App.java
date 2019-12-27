@@ -33,6 +33,7 @@ public class App implements ActionListener {
         for(int i=0;i<width-b_size;i+=b_size){
             for(int j=dis_height+(b_size/2);j<b_size*4;j+=b_size){
                 num_buttons[k].setBounds(i,j,b_size,b_size);
+                num_buttons[k].setFont(font);
                 k+=1;
             }
         }
